@@ -27,3 +27,5 @@ Total size of all rectangles: 1455x712
 Size of container: 1506x762
 
 Make sure it looks exactly the same when it generates it.
+
+To use context7, get https://context7.com/{id}/llms.txt?tokens=50000
