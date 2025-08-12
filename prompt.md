@@ -29,3 +29,5 @@ Size of container: 1506x762
 Make sure it looks exactly the same when it generates it.
 
 To use context7, get https://context7.com/{id}/llms.txt?tokens=50000
+
+Ok, I have the constant thing replicating the bento grid exactly each time. Now you should make it randomised
