@@ -31,3 +31,7 @@ Make sure it looks exactly the same when it generates it.
 To use context7, get https://context7.com/{id}/llms.txt?tokens=50000
 
 Ok, I have the constant thing replicating the bento grid exactly each time. Now you should make it randomised
+
+Make sure to prioritise more smaller boxes and make the things controllable with a ui. Don't copy over the files, copy over the code to the current project which has the code files in ./src in the same style but with the ui configured. First understand how to make the ui work then make it so the existing project is copied over and configurable.
+
+I want it to look like apple's summary slides so a bunch of small boxes around one bigger centre box
